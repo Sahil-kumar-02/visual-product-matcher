@@ -1,7 +1,7 @@
 # Welcome 
 
 ## Project info
-Live Link -- https://visual-snap-match.vercel.app/
+Live Link -- https://visual-product-matcher-git-main-sahils-projects-0388ccc2.vercel.app
 
 **Use your preferred IDE**
 
